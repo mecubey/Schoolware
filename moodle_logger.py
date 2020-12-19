@@ -34,18 +34,17 @@ def logging():
         driver.find_element_by_xpath("//input[@value='Login']").click()
         courses = driver.find_elements_by_class_name("coursename")
 
-        for x in range(len(courses)-1):
+        for x in range(len(courses)):
             courses[x].click()
-
             checkboxes = driver.find_elements_by_xpath("//*[contains(@src,'https://moodle.bildung-lsa.de/gym-oekumene/theme/image.php/classic/core/1603737858/i/completion-manual-n')]")
             if (len(checkboxes) != 0):
                 for i in range(len(checkboxes)):
-                    checkboxes[i].click()
+                    driver.execute_script("arguments[0].click();", checkboxes[i])
 
             pdf_files = driver.find_elements_by_xpath("//*[contains(@src,'https://moodle.bildung-lsa.de/gym-oekumene/theme/image.php/classic/core/1603737858/f/pdf-24')]")
             if (len(pdf_files) != 0):
                 for i in range(len(pdf_files)):
-                    pdf_files[i].click()
+                    driver.execute_script("arguments[0].click();", pdf_files[i])
 
                 handles = driver.window_handles
                 parent_handle = driver.current_window_handle
@@ -53,6 +52,7 @@ def logging():
                     if handles[i] != parent_handle:
                         driver.switch_to.window(handles[i])
                         driver.close()
+
                 driver.switch_to.window((parent_handle))
 
             driver.execute_script("window.history.go(-1)")
@@ -61,7 +61,6 @@ def logging():
         driver.quit()
         help_me = 1
     except Exception as e:
-        print(e)
         driver.quit()
         help_me = 1
 
@@ -71,7 +70,7 @@ t1.start()
 
 def pocketwatch():
     global help_me
-    time.sleep(100)
+    time.sleep(300)
     help_me = 1
 
 t2 = threading.Thread(target=pocketwatch)
