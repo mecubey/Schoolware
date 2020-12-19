@@ -15,7 +15,7 @@ with open("accountdaten.txt", 'r') as filehandle:
 nutzername = account_daten[0]
 passwort = account_daten[1]
 
-help_me = 0
+help_me = 0 #does not work if made into a boolean??
 
 def logging():
     global  help_me
@@ -36,11 +36,32 @@ def logging():
 
         for x in range(len(courses)-1):
             courses[x].click()
+
+            checkboxes = driver.find_elements_by_xpath("//*[contains(@src,'https://moodle.bildung-lsa.de/gym-oekumene/theme/image.php/classic/core/1603737858/i/completion-manual-n')]")
+            if (len(checkboxes) != 0):
+                for i in range(len(checkboxes)):
+                    checkboxes[i].click()
+
+            pdf_files = driver.find_elements_by_xpath("//*[contains(@src,'https://moodle.bildung-lsa.de/gym-oekumene/theme/image.php/classic/core/1603737858/f/pdf-24')]")
+            if (len(pdf_files) != 0):
+                for i in range(len(pdf_files)):
+                    pdf_files[i].click()
+
+                handles = driver.window_handles
+                parent_handle = driver.current_window_handle
+                for i in range(len(handles)):
+                    if handles[i] != parent_handle:
+                        driver.switch_to.window(handles[i])
+                        driver.close()
+                driver.switch_to.window((parent_handle))
+
             driver.execute_script("window.history.go(-1)")
             courses = driver.find_elements_by_class_name("coursename")
+
         driver.quit()
         help_me = 1
-    except:
+    except Exception as e:
+        print(e)
         driver.quit()
         help_me = 1
 
