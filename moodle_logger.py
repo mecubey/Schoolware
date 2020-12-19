@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
-from threading import *
+import threading
+import sys
 
 PATH = "chromedriver.exe"
 driver = webdriver.Chrome(PATH)
@@ -14,27 +15,14 @@ with open("accountdaten.txt", 'r') as filehandle:
 nutzername = account_daten[0]
 passwort = account_daten[1]
 
-class PropagatingThread(Thread):
-    def run(self):
-        self.exc = None
-        try:
-            if hasattr(self, '_Thread__target'):
-                # Thread uses name mangling prior to Python 3.
-                self.ret = self._Thread__target(*self._Thread__args, **self._Thread__kwargs)
-            else:
-                self.ret = self._target(*self._args, **self._kwargs)
-        except BaseException as e:
-            self.exc = e
-
-    def join(self):
-        super(PropagatingThread, self).join()
-        if self.exc:
-            raise self.exc
-        return self.ret
+help_me = 0
 
 def logging():
-    driver.get("http://moodle.bildung-lsa.de/gym-oekumene/")
+    global  help_me
+
     try:
+        driver.get("http://moodle.bildung-lsa.de/gym-oekumene/")
+
         username = driver.find_element_by_id("login_username")
         username.clear()
         username.send_keys(nutzername)
@@ -51,24 +39,26 @@ def logging():
             driver.execute_script("window.history.go(-1)")
             courses = driver.find_elements_by_class_name("coursename")
         driver.quit()
-        quit()
+        help_me = 1
     except:
         driver.quit()
-        quit()
+        help_me = 1
 
-logging_process = PropagatingThread(target=logging)
+t1 = threading.Thread(target=logging)
+t1.daemon = True
+t1.start()
 
-def timeout():
-    logging_process.start()
-    time.sleep(1)
-    raise Exception
+def pocketwatch():
+    global help_me
+    time.sleep(100)
+    help_me = 1
 
-t = PropagatingThread(target=timeout)
+t2 = threading.Thread(target=pocketwatch)
+t2.daemon = True
+t2.start()
 
-try:
-    t.start()
-    t.join()
-except:
-    driver.quit()
-    quit() #probably not needed
+while True:
+    if (t1.is_alive()==True and help_me==1) or (t1.is_alive()==False and help_me==1):
+        driver.quit()
+        sys.exit()
 
