@@ -1,964 +1,271 @@
-1610358651930	geckodriver	INFO	Listening on 127.0.0.1:60159
-1610358654984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile2IPa4o"
+1610374070899	geckodriver	INFO	Listening on 127.0.0.1:50152
+1610374073932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileopfvPI"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610358656621	Marionette	INFO	Listening on port 60167
-1610358657043	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610358664159	Marionette	INFO	Stopped listening on port 60167
+1610374075471	Marionette	INFO	Listening on port 50160
+1610374075986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374083533	Marionette	INFO	Stopped listening on port 50160
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359099084	geckodriver	INFO	Listening on 127.0.0.1:60256
-1610359102124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile1EXUUz"
+1610374089025	geckodriver	INFO	Listening on 127.0.0.1:50198
+1610374092048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile2QpyTH"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359103738	Marionette	INFO	Listening on port 60264
-1610359104184	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
-1610359104577	Marionette	INFO	Stopped listening on port 60264
+1610374093631	Marionette	INFO	Listening on port 50206
+1610374094097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374101393	Marionette	INFO	Stopped listening on port 50206
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359263206	geckodriver	INFO	Listening on 127.0.0.1:60307
-1610359266242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilesM3H3V"
+1610374106908	geckodriver	INFO	Listening on 127.0.0.1:50244
+1610374109934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileHOEFgU"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359267765	Marionette	INFO	Listening on port 60316
-1610359267782	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359271736	Marionette	INFO	Stopped listening on port 60316
+1610374111490	Marionette	INFO	Listening on port 50252
+1610374111975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374158140	geckodriver	INFO	Listening on 127.0.0.1:50291
+1610374161169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileZMUBCq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610374162800	Marionette	INFO	Listening on port 50299
+1610374163220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374170543	Marionette	INFO	Stopped listening on port 50299
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359381542	geckodriver	INFO	Listening on 127.0.0.1:60378
-1610359384577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileqSYDpS"
+1610374176032	geckodriver	INFO	Listening on 127.0.0.1:50342
+1610374179069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileGgNTPM"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359386068	Marionette	INFO	Listening on port 60386
-1610359386120	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-console.warn: services.settings: main/cfr sync interrupted by shutdown
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
-1610359386514	Marionette	INFO	Stopped listening on port 60386
+1610374180628	Marionette	INFO	Listening on port 50350
+1610374181119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374190696	Marionette	INFO	Stopped listening on port 50350
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359427371	geckodriver	INFO	Listening on 127.0.0.1:60416
-1610359430403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilewjau5Z"
+1610374196109	geckodriver	INFO	Listening on 127.0.0.1:50390
+1610374199138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileV8YLtp"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359431869	Marionette	INFO	Listening on port 60424
-1610359431936	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359434918	Marionette	INFO	Stopped listening on port 60424
+1610374200696	Marionette	INFO	Listening on port 50398
+1610374201204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374209577	Marionette	INFO	Stopped listening on port 50398
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359589061	geckodriver	INFO	Listening on 127.0.0.1:60513
-1610359592092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileituOdr"
+1610374215088	geckodriver	INFO	Listening on 127.0.0.1:50436
+1610374218127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileGhKmoO"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359593673	Marionette	INFO	Listening on port 60521
-1610359594137	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359598541	Marionette	INFO	Stopped listening on port 60521
+1610374219698	Marionette	INFO	Listening on port 50444
+1610374220179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374227481	Marionette	INFO	Stopped listening on port 50444
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359619068	geckodriver	INFO	Listening on 127.0.0.1:60559
-1610359622127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileG24O4u"
+1610374232989	geckodriver	INFO	Listening on 127.0.0.1:50482
+1610374236010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileRL4s3L"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359623583	Marionette	INFO	Listening on port 60567
-1610359623674	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359630529	Marionette	INFO	Stopped listening on port 60567
+1610374237637	Marionette	INFO	Listening on port 50490
+1610374238072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374418397	geckodriver	INFO	Listening on 127.0.0.1:50538
+1610374421433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileN9p7y8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610374422981	Marionette	INFO	Listening on port 50546
+1610374423479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374430898	Marionette	INFO	Stopped listening on port 50546
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359732372	geckodriver	INFO	Listening on 127.0.0.1:60608
-1610359735422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileNbr9m0"
+1610374431389	geckodriver	INFO	Listening on 127.0.0.1:50588
+1610374434432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileUG2JAc"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359737062	Marionette	INFO	Listening on port 60616
-1610359737479	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359742310	Marionette	INFO	Stopped listening on port 60616
+1610374435995	Marionette	INFO	Listening on port 50596
+1610374436488	Marionette	WARN	TLS certificate errors will be1610374439416	mozrunner::ru1610374443865	Marionette	INFO	Stopped listening on port 50596
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359835667	geckodriver	INFO	Listening on 127.0.0.1:60654
-1610359838699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofiled18mR9"
+\Temp\\rust_mozprofileHkD44V"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359840389	Marionette	INFO	Listening on port 60662
-1610359840742	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359845648	Marionette	INFO	Stopped listening on port 60662
+1610374440990	Marionette	INFO	Listening on port 50639
+1610374441472	Marionette	WARN	TLS certificate errors will be1610374444449	mozrunner::ru1610374449297	Marionette	INFO	Stopped listening on port 50639
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610359866317	geckodriver	INFO	Listening on 127.0.0.1:60702
-1610359869359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileArIBDN"
+\Temp\\rust_mozprofileePGtai"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359870927	Marionette	INFO	Listening on port 60710
-1610359871410	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610359993988	geckodriver	INFO	Listening on 127.0.0.1:60751
-1610359997028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilem8waJ2"
+1610374446054	Marionette	INFO	Listening on port 50686
+1610374446504	Marionette	WARN	TLS certificate errors will be1610374449431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile1P3dFX"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610359998581	Marionette	INFO	Listening on port 60759
-1610359999095	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360101551	geckodriver	INFO	Listening on 127.0.0.1:60815
-1610360104583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileDMnjqr"
+1610374450965	Marionette	INFO	Listening on port 50730
+1610374451488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374565668	geckodriver	INFO	Listening on 127.0.0.1:50781
+1610374568696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileYVbo6K"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360106046	Marionette	INFO	Listening on port 60823
-1610360106138	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360117536	Marionette	INFO	Stopped listening on port 60823
+1610374570266	Marionette	INFO	Listening on port 50789
+1610374570759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374578271	Marionette	INFO	Stopped listening on port 50789
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610360347363	geckodriver	INFO	Listening on 127.0.0.1:60956
-1610360350418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileeVG3NC"
+1610374583781	geckodriver	INFO	Listening on 127.0.0.1:50827
+1610374586815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileiFZKab"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360352093	Marionette	INFO	Listening on port 60964
-1610360352470	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360396012	geckodriver	INFO	Listening on 127.0.0.1:61018
-1610360399033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile9Fdqh9"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360400675	Marionette	INFO	Listening on port 61026
-1610360401091	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360531908	geckodriver	INFO	Listening on 127.0.0.1:61073
-1610360534955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileSBC1TX"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360536538	Marionette	INFO	Listening on port 61081
-1610360537005	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360547059	Marionette	INFO	Stopped listening on port 61081
+1610374588444	Marionette	INFO	Listening on port 50835
+1610374588864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374596434	Marionette	INFO	Stopped listening on port 50835
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610360625124	geckodriver	INFO	Listening on 127.0.0.1:61124
-1610360628158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilepvgAdc"
+1610374601927	geckodriver	INFO	Listening on 127.0.0.1:50872
+1610374604951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileVGlr0W"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360629699	Marionette	INFO	Listening on port 61132
-1610360630199	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360676328	geckodriver	INFO	Listening on 127.0.0.1:61175
-1610360679359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile3TOfgp"
+1610374606570	Marionette	INFO	Listening on port 50880
+1610374607008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374627684	geckodriver	INFO	Listening on 127.0.0.1:50919
+1610374630711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileaHTo0O"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360680897	Marionette	INFO	Listening on port 61183
-1610360681406	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610360748743	geckodriver	INFO	Listening on 127.0.0.1:61240
-1610360751801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile70J5GG"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360753585	Marionette	INFO	Listening on port 61248
-1610360753851	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-1610360806870	Marionette	INFO	Stopped listening on port 61248
+1610374632331	Marionette	INFO	Listening on port 50927
+1610374632755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610374640207	Marionette	INFO	Stopped listening on port 50927
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610360965703	geckodriver	INFO	Listening on 127.0.0.1:61301
-1610360968754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileBzomOt"
+1610375254640	geckodriver	INFO	Listening on 127.0.0.1:51028
+1610375257676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile6T2zjt"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610360970233	Marionette	INFO	Listening on port 61309
-1610360970298	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610361063333	geckodriver	INFO	Listening on 127.0.0.1:61365
-1610361066373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilehCk0ui"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610361067926	Marionette	INFO	Listening on port 61373
-1610361068420	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610361118791	geckodriver	INFO	Listening on 127.0.0.1:61420
-1610361121838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileY3bTaS"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610361123521	Marionette	INFO	Listening on port 61429
-1610361123890	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610361645515	geckodriver	INFO	Listening on 127.0.0.1:61505
-1610361648570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile0B6b8T"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610361650300	Marionette	INFO	Listening on port 61513
-1610361650627	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610361899480	Marionette	INFO	Stopped listening on port 61513
+1610375259233	Marionette	INFO	Listening on port 51036
+1610375259728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375267223	Marionette	INFO	Stopped listening on port 51036
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilesd9L5g"
+1610375272715	geckodriver	INFO	Listening on 127.0.0.1:51077
+1610375275749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileAKuaID"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610361695061	Marionette	INFO	Listening on port 61579
-1610361695390	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610361900516	Marionette	INFO	Stopped listening on port 61579
+1610375277359	Marionette	INFO	Listening on port 51085
+1610375277811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375285216	Marionette	INFO	Stopped listening on port 51085
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610361994812	geckodriver	INFO	Listening on 127.0.0.1:61688
-1610361997850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileLK0ZUU"
+1610375290710	geckodriver	INFO	Listening on 127.0.0.1:51124
+1610375293741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile6yz1Lf"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610361999489	Marionette	INFO	Listening on port 61696
-1610361999902	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610362006784	Marionette	INFO	Stopped listening on port 61696
+1610375295384	Marionette	INFO	Listening on port 51132
+1610375295796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375303328	Marionette	INFO	Stopped listening on port 51132
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610363084498	geckodriver	INFO	Listening on 127.0.0.1:61844
-1610363087529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileO7Hubn"
+1610375308832	geckodriver	INFO	Listening on 127.0.0.1:51171
+1610375311866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofiley4DH8s"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610363089166	Marionette	INFO	Listening on port 61852
-1610363089582	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610363136802	geckodriver	INFO	Listening on 127.0.0.1:61902
-1610363139846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileTYmsZX"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610363141363	Marionette	INFO	Listening on port 61910
-1610363141384	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1790: TypeError: M.filter_mathjaxloader is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/modules/Prompter.jsm, line 1082: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
-1610363160382	Marionette	INFO	Stopped listening on port 61910
+1610375313428	Marionette	INFO	Listening on port 51179
+1610375313919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375321249	Marionette	INFO	Stopped listening on port 51179
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610363917025	geckodriver	INFO	Listening on 127.0.0.1:62048
-1610363920065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileArcsCF"
+1610375326762	geckodriver	INFO	Listening on 127.0.0.1:51225
+1610375329799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileasklhn"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610363921739	Marionette	INFO	Listening on port 62056
-1610363922115	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1790: TypeError: M.filter_mathjaxloader is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1790: TypeError: M.filter_mathjaxloader is undefined
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 780: TypeError: this.dataListener is null
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/modules/Prompter.jsm, line 1082: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
-1610364492281	Marionette	INFO	Stopped listening on port 62056
+1610375331368	Marionette	INFO	Listening on port 51233
+1610375331857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375339195	Marionette	INFO	Stopped listening on port 51233
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610364835217	geckodriver	INFO	Listening on 127.0.0.1:62401
-1610364838253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilefkyKoL"
+1610375344684	geckodriver	INFO	Listening on 127.0.0.1:51268
+1610375347720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilexKlY4O"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610364839772	Marionette	INFO	Listening on port 62409
-1610364840297	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1790: TypeError: M.filter_mathjaxloader is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/event"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-[GFX1-]: Failed to OpenSharedResource for SyncObjectD3D11: 0x80070057
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/event"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/event"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1790: TypeError: M.filter_mathjaxloader is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1610364882700	Marionette	INFO	Stopped listening on port 62409
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "jquery", needed by: core/first, core/event
-http://requirejs.org/docs/errors.html#scripterror
+1610375349277	Marionette	INFO	Listening on port 51276
+1610375349780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375357108	Marionette	INFO	Stopped listening on port 51276
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610365419950	geckodriver	INFO	Listening on 127.0.0.1:62550
-1610365423003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile4vjttR"
+1610375362602	geckodriver	INFO	Listening on 127.0.0.1:51315
+1610375365649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileospPFy"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610365424601	Marionette	INFO	Listening on port 62558
-1610365425043	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610365449639	Marionette	INFO	Stopped listening on port 62558
+1610375367288	Marionette	INFO	Listening on port 51323
+1610375367685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375375316	Marionette	INFO	Stopped listening on port 51323
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610365683940	geckodriver	INFO	Listening on 127.0.0.1:62635
-1610365686989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileQIh19C"
+1610375380811	geckodriver	INFO	Listening on 127.0.0.1:51363
+1610375383850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile2X4VsY"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610365688559	Marionette	INFO	Listening on port 62643
-1610365689038	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610365886759	Marionette	INFO	Stopped listening on port 62643
+1610375385401	Marionette	INFO	Listening on port 51372
+1610375385904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375393298	Marionette	INFO	Stopped listening on port 51372
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610365889949	geckodriver	INFO	Listening on 127.0.0.1:62743
-1610365893001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilerS5L5r"
+1610375526214	geckodriver	INFO	Listening on 127.0.0.1:51425
+1610375529247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileY8Cy2p"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610365894580	Marionette	INFO	Listening on port 62752
-1610365895048	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/modules/Prompter.jsm, line 1082: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1610366000265	Marionette	INFO	Stopped listening on port 62752
+1610375530843	Marionette	INFO	Listening on port 51433
+1610375531289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375538676	Marionette	INFO	Stopped listening on port 51433
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1610366256704	geckodriver	INFO	Listening on 127.0.0.1:62872
-1610366259743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileDlQ6oQ"
+1610375544171	geckodriver	INFO	Listening on 127.0.0.1:51472
+1610375547211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile0HF0q9"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610366261277	Marionette	INFO	Listening on port 62881
-1610366261789	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610366264906	Marionette	INFO	Stopped listening on port 62881
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610366405042	geckodriver	INFO	Listening on 127.0.0.1:62962
-1610366408092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilerdRIgu"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610366409660	Marionette	INFO	Listening on port 62970
-1610366410145	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610366412919	Marionette	INFO	Stopped listening on port 62970
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: No define call for core/first
-http://requirejs.org/docs/errors.html#nodefine
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610366597555	geckodriver	INFO	Listening on 127.0.0.1:63048
-1610366600612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileEp9rVB"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610366602110	Marionette	INFO	Listening on port 63056
-1610366602154	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610366614875	Marionette	INFO	Stopped listening on port 63056
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610366688963	geckodriver	INFO	Listening on 127.0.0.1:61192
-1610366692054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileDMWPJn"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
-1610366693576	Marionette	INFO	Listening on port 61200
-1610366693595	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610366698936	Marionette	INFO	Stopped listening on port 61200
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610367060137	geckodriver	INFO	Listening on 127.0.0.1:61337
-1610367072089	geckodriver	INFO	Listening on 127.0.0.1:61346
-1610367088194	geckodriver	INFO	Listening on 127.0.0.1:61362
-1610367105194	geckodriver	INFO	Listening on 127.0.0.1:61379
-1610367108233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile3Esku7"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610367109908	Marionette	INFO	Listening on port 61387
-1610367110291	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610367116872	Marionette	INFO	Stopped listening on port 61387
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610367125831	geckodriver	INFO	Listening on 127.0.0.1:61424
-1610367128876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileCSXFSU"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610367130402	Marionette	INFO	Listening on port 61432
-1610367130922	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610367137296	Marionette	INFO	Stopped listening on port 61432
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610367251433	geckodriver	INFO	Listening on 127.0.0.1:61496
-1610367254471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile0tqTih"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610367256029	Marionette	INFO	Listening on port 61504
-1610367256532	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610367430018	geckodriver	INFO	Listening on 127.0.0.1:61641
-1610367433058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilekWXq4R"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610367434553	Marionette	INFO	Listening on port 61649
-1610367434592	Marionette	WARN	TLS certificate errors will be ignored for this session
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-1610367553342	geckodriver	INFO	Listening on 127.0.0.1:61929
-1610367556387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileP5nOZw"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610367557931	Marionette	INFO	Listening on port 61938
-1610367558448	Marionette	WARN	TLS certificate errors will be ignored for this session
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
-
-1610367568122	Marionette	INFO	Stopped listening on port 61938
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610368616015	geckodriver	INFO	Listening on 127.0.0.1:62726
-1610368619098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileG9uyrz"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610368620602	Marionette	INFO	Listening on port 62734
-1610368620631	Marionette	WARN	TLS certificate errors will be ignored for this session
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-JavaScript error: https://secure-dcdn.cdn.nimg.jp/extplayerv/embed/js/api.js, line 1: Error: Unhandled error. (Video cannot currently be watched with this player
-Please watch from niconico)
-1610368664183	Marionette	INFO	Stopped listening on port 62734
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610368680732	geckodriver	INFO	Listening on 127.0.0.1:63234
-1610368683818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileFqWLVb"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610368685332	Marionette	INFO	Listening on port 63242
-1610368685367	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610368696003	Marionette	INFO	Stopped listening on port 63242
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610368967789	geckodriver	INFO	Listening on 127.0.0.1:63564
-1610368970840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilei7q3YQ"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610368972371	Marionette	INFO	Listening on port 63572
-1610368972894	Marionette	WARN	TLS certificate errors will be ignored for this session
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-JavaScript error: https://secure-dcdn.cdn.nimg.jp/extplayerv/embed/js/api.js, line 1: Error: Unhandled error. (Video cannot currently be watched with this player
-Please watch from niconico)
-1610369129435	geckodriver	INFO	Listening on 127.0.0.1:64077
-1610369132483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilegwcan0"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369134084	Marionette	INFO	Listening on port 64085
-1610369134542	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610369135580	Marionette	INFO	Stopped listening on port 64085
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610369331720	geckodriver	INFO	Listening on 127.0.0.1:64132
-1610369334757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile2X6wO2"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369336383	Marionette	INFO	Listening on port 64140
-1610369336813	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610369343349	Marionette	INFO	Stopped listening on port 64140
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610369364524	geckodriver	INFO	Listening on 127.0.0.1:64205
-1610369367549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileh6Wh1k"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369369090	Marionette	INFO	Listening on port 64213
-1610369369602	Marionette	WARN	TLS certificate errors will be ignored for this session
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-1610369378894	Marionette	INFO	Stopped listening on port 64213
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610369440498	geckodriver	INFO	Listening on 127.0.0.1:64481
-1610369443546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilePtQPbs"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369445179	Marionette	INFO	Listening on port 64489
-1610369445583	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610369451788	Marionette	INFO	Stopped listening on port 64489
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610369478438	geckodriver	INFO	Listening on 127.0.0.1:64534
-1610369481469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilett0Wwy"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369483093	Marionette	INFO	Listening on port 64542
-1610369483516	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610369534333	geckodriver	INFO	Listening on 127.0.0.1:64601
-1610369537376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileUbL5de"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610369538997	Marionette	INFO	Listening on port 64609
-1610369539429	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610369545571	Marionette	INFO	Stopped listening on port 64609
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370333688	geckodriver	INFO	Listening on 127.0.0.1:64725
-1610370336714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile3gxbKF"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370338291	Marionette	INFO	Listening on port 64733
-1610370338772	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370339312	Marionette	INFO	Stopped listening on port 64733
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370343687	geckodriver	INFO	Listening on 127.0.0.1:64771
-1610370346733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilea2ccqX"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370348343	Marionette	INFO	Listening on port 64779
-1610370348790	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370349317	Marionette	INFO	Stopped listening on port 64779
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370353706	geckodriver	INFO	Listening on 127.0.0.1:64815
-1610370356720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile67tLFC"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370358269	Marionette	INFO	Listening on port 64823
-1610370358762	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370359292	Marionette	INFO	Stopped listening on port 64823
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370363715	geckodriver	INFO	Listening on 127.0.0.1:64859
-1610370366740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile98wMTG"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370368292	Marionette	INFO	Listening on port 64867
-1610370368796	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370369329	Marionette	INFO	Stopped listening on port 64867
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370373717	geckodriver	INFO	Listening on 127.0.0.1:64902
-1610370376732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilefMyweI"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370378270	Marionette	INFO	Listening on port 64910
-1610370378782	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370379315	Marionette	INFO	Stopped listening on port 64910
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370383717	geckodriver	INFO	Listening on 127.0.0.1:64945
-1610370386751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileJjV2vp"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370388239	Marionette	INFO	Listening on port 64953
-1610370388300	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370388836	Marionette	INFO	Stopped listening on port 64953
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-console.error: services.settings: 
-  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370393730	geckodriver	INFO	Listening on 127.0.0.1:64987
-1610370396752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileOnd0EY"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370398242	Marionette	INFO	Listening on port 64995
-1610370398294	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370398838	Marionette	INFO	Stopped listening on port 64995
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-console.error: services.settings: 
-  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370403735	geckodriver	INFO	Listening on 127.0.0.1:65030
-1610370406768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile93CwtQ"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370408258	Marionette	INFO	Listening on port 65038
-1610370408317	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370408847	Marionette	INFO	Stopped listening on port 65038
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-console.error: services.settings: 
-  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370662605	geckodriver	INFO	Listening on 127.0.0.1:65095
-1610370665625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileheUd0o"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370667190	Marionette	INFO	Listening on port 65103
-1610370667690	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370668228	Marionette	INFO	Stopped listening on port 65103
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370689793	geckodriver	INFO	Listening on 127.0.0.1:65141
-1610370692825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilePqZLuA"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370694317	Marionette	INFO	Listening on port 65149
-1610370694380	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370694909	Marionette	INFO	Stopped listening on port 65149
-JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370709359	geckodriver	INFO	Listening on 127.0.0.1:65185
-1610370712392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofileBYM9AY"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370713948	Marionette	INFO	Listening on port 65193
-1610370714454	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370714984	Marionette	INFO	Stopped listening on port 65193
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370880469	geckodriver	INFO	Listening on 127.0.0.1:65243
-1610370883516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofile0RX0q7"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370885140	Marionette	INFO	Listening on port 65251
-1610370885560	Marionette	WARN	TLS certificate errors will be ignored for this session
-1610370886097	Marionette	INFO	Stopped listening on port 65251
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1610370943572	geckodriver	INFO	Listening on 127.0.0.1:65292
-1610370946613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aytur\\AppData\\Local\\Temp\\rust_mozprofilewbn2MP"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1610370948263	Marionette	INFO	Listening on port 65300
-1610370948679	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/event"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-[GFX1-]: Failed to OpenSharedResource for SyncObjectD3D11: 0x80070057
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 780: TypeError: this.dataListener is null
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://pdf.js/PdfjsParent.jsm, line 231: TypeError: aBrowser is null
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/lib/javascript.php/1603737858/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
-http://requirejs.org/docs/errors.html#scripterror
-JavaScript error: https://moodle.bildung-lsa.de/gym-oekumene/, line 1793: TypeError: Y.Moodle is undefined
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-1610370990872	Marionette	INFO	Stopped listening on port 65300
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
-JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1610375548812	Marionette	INFO	Listening on port 51480
+1610375549255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610375556693	Marionette	INFO	Stopped listening on port 51480
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 

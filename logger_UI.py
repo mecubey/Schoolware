@@ -5,7 +5,6 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
 from datetime import datetime
 import threading
 
@@ -43,10 +42,6 @@ logs = tk.Listbox(root, width=50, height=25, bg="black", fg="white")
 logs.place(relx=0.5, rely=0.1)
 
 def moodle_logging():
-    t = threading.Timer(60.0+float(interval_input.get()), moodle_logging)
-    t.daemon = True
-    t.start()
-
     PATH = display_text.get().replace("\\", "/")
     USERNAME = username_input.get()
     PASSWORD = password_input.get()
@@ -95,6 +90,10 @@ def moodle_logging():
     except:
         logs.insert(tk.END, "ERROR ({})".format(datetime.now().strftime("%H:%M:%S")))
         driver.quit()
+
+    t = threading.Timer(float(interval_input.get()), moodle_logging)
+    t.daemon = True
+    t.start()
 
 button = tk.Button(root, text='OPEN GECKODRIVER', command=UploadAction)
 button.place(rely=0.65)
