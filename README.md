@@ -5,6 +5,7 @@ Logge dich mit diesem Programm automatisch in einem von dir bestimmten Zeitinter
 Benötigt werden:
 - Firefox Browser (https://www.mozilla.org/de/firefox/new/)
 - win64/win32 Version des Gecko-Webdrivers (https://github.com/mozilla/geckodriver/releases)
+  - V.0.28.0 IST IN DIESER REPO SCHON ENTHALTEN, WENN 0.28.0 ALSO DIE NEUSTE VERSION IST, MUSS MAN ES NICHT SELBST HERUNTERLADEN
 - logger_UI.exe (in dieser Repo enthalten)
 
 ## Benutzung
