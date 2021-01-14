@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from datetime import datetime
 import schedule
 import time
+import threading
 
 root = tk.Tk()
 root.geometry("700x500")
@@ -24,11 +25,6 @@ password_input = tk.StringVar(root)
 password = tk.Entry(root, textvariable=password_input)
 password.place(rely=0.55)
 password.insert(0, "MOODLE_PASSWORT")
-
-interval_input = tk.StringVar(root)
-interval  = tk.Entry(root, textvariable=interval_input)
-interval.place(rely=0.6)
-interval.insert(0, "INTERVAL EINFÜGEN")
 
 display_text = tk.StringVar()
 show_chrdriver = tk.Label(root, textvariable=display_text)
@@ -115,11 +111,17 @@ button = tk.Button(root, text='OPEN GECKODRIVER', command=uploadAction)
 button.place(rely=0.65)
 
 def spec_time_log():
-    while True:
+    while 1:
         schedule.run_pending()
         time.sleep(1)
 
-start = tk.Button(root, text="START", width=10, command=spec_time_log)
+def start_process():
+    logs.insert(tk.END, "Neuer Prozess gestartet! Nicht nochmal 'START' klicken!")
+    t = threading.Thread(target=spec_time_log)
+    t.daemon = True
+    t.start()
+
+start = tk.Button(root, text="START", width=10, command=start_process)
 start.place(relx=0.3, rely=0.853)
 
 root.mainloop()
