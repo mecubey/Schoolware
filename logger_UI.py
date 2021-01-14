@@ -31,6 +31,8 @@ show_chrdriver = tk.Label(root, textvariable=display_text)
 show_chrdriver.place(rely=0.95)
 
 
+jobs = {}
+
 def uploadAction(event=None):
     filename = filedialog.askopenfilename()
     s = str(filename)
@@ -96,13 +98,23 @@ def moodle_logging():
         logs.insert(tk.END, "ERROR ({})".format(datetime.now().strftime("%H:%M:%S")))
         driver.quit()
 
+
 def add_time_to_list():
-    schedule.every().day.at(str(custom_time_entry_text.get())).do(moodle_logging)
+    jobs[str(custom_time_entry_text.get())] = schedule.every().day.at(str(custom_time_entry_text.get())).do(moodle_logging)
     times.insert(tk.END, custom_time_entry_text.get())
+
 
 add_timebutton = tk.Button(root, text='ZEIT HINZUFÜGEN', command=add_time_to_list)
 add_timebutton.place(rely=0.05, relx=0.32)
 
+
+def remove_item_from_list():
+    schedule.cancel_job(jobs[str(times.get(tk.ANCHOR))])
+    times.delete(tk.ANCHOR)
+
+
+remove_timebutton = tk.Button(root, text='ZEIT ENTFERNEN', command=remove_item_from_list)
+remove_timebutton.place(rely=0.15, relx=0.32)
 
 logs = tk.Listbox(root, width=50, height=25, bg="black", fg="white")
 logs.place(relx=0.5, rely=0.1)
@@ -110,16 +122,19 @@ logs.place(relx=0.5, rely=0.1)
 button = tk.Button(root, text='OPEN GECKODRIVER', command=uploadAction)
 button.place(rely=0.65)
 
+
 def spec_time_log():
     while 1:
         schedule.run_pending()
         time.sleep(1)
 
+
 def start_process():
-    logs.insert(tk.END, "Neuer Prozess gestartet! Nicht nochmal 'START' klicken!")
+    logs.insert(tk.END, "Neuer Prozess gestartet! Nicht nochmal 'START' klicken! ({})".format(datetime.now().strftime("%H:%M:%S")))
     t = threading.Thread(target=spec_time_log)
     t.daemon = True
     t.start()
+
 
 start = tk.Button(root, text="START", width=10, command=start_process)
 start.place(relx=0.3, rely=0.853)
