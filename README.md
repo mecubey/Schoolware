@@ -11,8 +11,8 @@ Benötigt werden:
 ## Benutzung
 ![](/example.PNG)
 
-- Bei "MOODLE_USERNAME" deinen Moodlenutzernamen eingeben
-- Bei "MOODLE_PASSWORT" dein Moodlepasswort eingeben
+- Bei "TESTNUTZERNAME" deinen Moodlenutzernamen eingeben
+- Darunter dein Moodlepasswort eingeben
 - Bei "OPEN GECKODRIVER" deine geckodriver.exe Datei finden und anklicken
 - Beim leeren Feld eine Zeit eingeben (HH:MM:SS oder HH:MM) und auf "ZEIT HINZUFÜGEN" anklicken, um eine spezifische Exekutionszeit hinzuzufügen
 
