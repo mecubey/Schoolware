@@ -13,16 +13,20 @@ import threading
 pre_username = ""
 pre_password = ""
 pre_times_list = []
+pre_geckodriver_path = ""
 
-with open("logger_UI.cfg.txt", "r") as f:
-    lines = f.readlines()
-    for line in range(len(lines)):
-        lines[line] = lines[line].strip()
+try:
+    with open("logger_UI.cfg.txt", "r") as f:
+        lines = f.readlines()
+        for line in range(len(lines)):
+            lines[line] = lines[line].strip()
 
-pre_username = lines[0].split("=")[1]
-pre_password = lines[1].split("=")[1]
-pre_times_list = lines[2].split(",")
-pre_geckodriver_path = lines[3]
+    pre_username = lines[0].split("=")[1]
+    pre_password = lines[1].split("=")[1]
+    pre_times_list = lines[2].split(",")
+    pre_geckodriver_path = lines[3]
+except:
+    pass
 
 root = tk.Tk()
 root.geometry("700x500")

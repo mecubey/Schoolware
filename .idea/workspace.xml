@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99065b38-b606-4c1c-a9ad-7ed34b6668cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger_UI.cfg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logger_UI.cfg.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logger_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/logger_UI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
