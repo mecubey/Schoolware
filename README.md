@@ -13,8 +13,16 @@ Benötigt werden:
 
 - Bei "MOODLE_USERNAME" deinen Moodlenutzernamen eingeben
 - Bei "MOODLE_PASSWORT" dein Moodlepasswort eingeben
-- Bei "INTERVAL EINFÜGEN" deinen gewünschten Zeitintervall eingeben
-  - dass heißt, das nach jeder erfolgreichen/erfolgslosen Iteration des Programms, sich das Programm nach deinem eingefügten Interval wiederholt
 - Bei "OPEN GECKODRIVER" deine geckodriver.exe Datei finden und anklicken
+- Beim leeren Feld eine Zeit eingeben (HH:MM:SS oder HH:MM) und auf "ZEIT HINZUFÜGEN" anklicken, um eine spezifische Exekutionszeit hinzuzufügen
 
 Anschließend auf "START" drücken.
+
+## Automatisches Eingeben von Daten
+Öffne "logger_UI.cfg" mit einem Textbearbeitungsprogramm.
+
+![](/cfg_example.PNG)
+
+- Bei NUTZERNAME und PASSWORD deinen Moodle - Nutzernamen/Passwort eingeben
+- Deine spezifischen Exekutionszeiten des Programms kannst du mit Kommas abgetrennt hinschreiben (HH:MM:SS oder HH:MM)
+- "..\dein\pfad" ersetzen durch deinen Pfad zur geckodriver.exe Datei 
