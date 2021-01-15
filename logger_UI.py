@@ -10,6 +10,19 @@ import schedule
 import time
 import threading
 
+pre_username = ""
+pre_password = ""
+pre_times_list = []
+
+with open("logger_UI.cfg.txt", "r") as f:
+    lines = f.readlines()
+    for line in range(len(lines)):
+        lines[line] = lines[line].strip()
+
+pre_username = lines[0].split("=")[1]
+pre_password = lines[1].split("=")[1]
+pre_times_list = lines[2].split(",")
+
 root = tk.Tk()
 root.geometry("700x500")
 root.resizable(width=0, height=0)
@@ -19,12 +32,12 @@ root.configure(background="black")
 username_input = tk.StringVar(root)
 username = tk.Entry(root, textvariable=username_input)
 username.place(rely=0.5)
-username.insert(0, "MOODLE_USERNAME")
+username.insert(0, pre_username)
 
 password_input = tk.StringVar(root)
-password = tk.Entry(root, textvariable=password_input)
+password = tk.Entry(root, textvariable=password_input, show="*")
 password.place(rely=0.55)
-password.insert(0, "MOODLE_PASSWORT")
+password.insert(0, pre_password)
 
 display_text = tk.StringVar()
 show_chrdriver = tk.Label(root, textvariable=display_text)
@@ -103,6 +116,11 @@ def add_time_to_list():
     jobs[str(custom_time_entry_text.get())] = schedule.every().day.at(str(custom_time_entry_text.get())).do(moodle_logging)
     times.insert(tk.END, custom_time_entry_text.get())
 
+#problematic
+for chosen_time in range(len(pre_times_list)):
+    get_time = str(pre_times_list[chosen_time])
+    jobs[get_time] = schedule.every().day.at(get_time).do(moodle_logging)
+    times.insert(tk.END, get_time)
 
 add_timebutton = tk.Button(root, text='ZEIT HINZUFÜGEN', command=add_time_to_list)
 add_timebutton.place(rely=0.05, relx=0.32)
