@@ -1,4 +1,4 @@
 USERNAME=TESTNUTZERNAME
 PASSWORD=TESTPASSWORT
 19:33,10:35,19:36
-C:\Users\Aytur\PycharmProjects\schoolware\geckodriver.exe
+..\dein\pfad
