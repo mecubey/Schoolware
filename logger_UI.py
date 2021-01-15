@@ -22,6 +22,7 @@ with open("logger_UI.cfg.txt", "r") as f:
 pre_username = lines[0].split("=")[1]
 pre_password = lines[1].split("=")[1]
 pre_times_list = lines[2].split(",")
+pre_geckodriver_path = lines[3]
 
 root = tk.Tk()
 root.geometry("700x500")
@@ -42,7 +43,7 @@ password.insert(0, pre_password)
 display_text = tk.StringVar()
 show_chrdriver = tk.Label(root, textvariable=display_text)
 show_chrdriver.place(rely=0.95)
-
+display_text.set(pre_geckodriver_path)
 
 jobs = {}
 
