@@ -21,8 +21,17 @@ Anschließend auf "START" drücken.
 ## Automatisches Eingeben von Daten
 Öffne "logger_UI.cfg" mit einem Textbearbeitungsprogramm.
 
-![](/cfg_example.PNG)
+```
+USERNAME=TESTNUTZERNAME
+PASSWORD=TESTPASSWORT
+20:56,20:57,20:58:30
+..\dein\pfad
+AUTOSTART=0
+```
 
 - Bei NUTZERNAME und PASSWORD deinen Moodle - Nutzernamen/Passwort eingeben
 - Deine spezifischen Exekutionszeiten des Programms kannst du mit Kommas abgetrennt hinschreiben (HH:MM:SS oder HH:MM)
 - "..\dein\pfad" ersetzen durch deinen Pfad zur geckodriver.exe Datei 
+- Bei AUTOSTART kannst du 1 oder 0 einsetzen: 
+  - 0 heißt, dass das Programm sich automatisch startet
+  - 1 heißt, dass das Programm sich nur durch User-Input startet 
