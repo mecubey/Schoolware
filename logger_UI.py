@@ -14,6 +14,7 @@ pre_username = ""
 pre_password = ""
 pre_times_list = []
 pre_geckodriver_path = ""
+pre_start = ""
 
 try:
     with open("logger_UI.cfg.txt", "r") as f:
@@ -25,6 +26,7 @@ try:
     pre_password = lines[1].split("=")[1]
     pre_times_list = lines[2].split(",")
     pre_geckodriver_path = lines[3]
+    pre_start = lines[4].split("=")[1]
 except:
     pass
 
@@ -158,6 +160,9 @@ def start_process():
     t.daemon = True
     t.start()
 
+
+if pre_start == "0":
+    start_process()
 
 start = tk.Button(root, text="START", width=10, command=start_process)
 start.place(relx=0.3, rely=0.853)
