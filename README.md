@@ -26,7 +26,7 @@ USERNAME=TESTNUTZERNAME
 PASSWORD=TESTPASSWORT
 20:56,20:57,20:58:30
 ..\dein\pfad
-AUTOSTART=0
+AUTOSTART=1
 ```
 
 - Bei NUTZERNAME und PASSWORD deinen Moodle - Nutzernamen/Passwort eingeben
