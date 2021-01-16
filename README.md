@@ -33,5 +33,5 @@ AUTOSTART=0
 - Deine spezifischen Exekutionszeiten des Programms kannst du mit Kommas abgetrennt hinschreiben (HH:MM:SS oder HH:MM)
 - "..\dein\pfad" ersetzen durch deinen Pfad zur geckodriver.exe Datei 
 - Bei AUTOSTART kannst du 1 oder 0 einsetzen: 
-  - 1 heißt, dass das Programm sich automatisch startet
-  - 0 heißt, dass das Programm sich nur durch User-Input startet 
+  - 0 heißt, dass das Programm sich automatisch startet
+  - 1 heißt, dass das Programm sich nur durch User-Input startet 
